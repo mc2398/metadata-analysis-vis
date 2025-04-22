@@ -1,4 +1,4 @@
 # Web Scraping Process and Suggestions
 
 ## Applicability to the Project
-For this project, I chose to pull metadata from Goodreads Reader's Choice Awards books 
+For this project, I chose to analyze metadata about the books which were nominated for Goodreads' Reader's Choice Awards from 2011-2024.  In order to access this data I built a web scraper, based on work from [The Goodreads Classics](https://github.com/maria-antoniak/goodreads-scraper) a digital humanities project. When I completed my project in spring 2025, the code for that project's web scraper was unmaintained and no longer functioning, in large part due to updates Goodreads has made to the structure of its book pages.  My project also differed from the Goodreads' Classics project, in that I was 1) not interested in pulling data from Goodreads' reviews 2) and did not have an existing list of IDs for books I wanted to scrape (although I had limited the scope of my project to nominees for the Readers Choice Awards in order to ensure I had a manageably sized dataset.
