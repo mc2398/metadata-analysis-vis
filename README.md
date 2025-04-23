@@ -16,5 +16,5 @@ The stages of the project can be explored chronologically (the order in which I 
 ## Basic Requirements
 Software: Google CoLab or an IDE for running Python, Open Refine (helpful but not required for transforming data), Sheets or Excel, Data Visualization Tool of Choice (I used Tableau Public)
 Technical Skill: Introductory Python, knowledge of RegEx, and data literacy
-Data: 
+Data: See [web-scraper.md](/web-scraper/web-scraper.md)
 Time: (To be updated)
