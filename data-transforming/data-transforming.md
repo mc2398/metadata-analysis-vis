@@ -32,4 +32,4 @@ Draft versions of the datasets I used for the analysis of the project are availa
 6) [Top Genre Tags](data-transforming/datasets/deduped_subject_terms-list_plus_counts - Sheet2.csv) Data including the total count of each genre in the dataset, and RegEx statements uniquely identifying each genre tag for use in the Subject Counts calculations for each year
 7) [Topic Modeling Dataset](data-transforming/datasets/goodreads_dataset_for_topic-modeling.csv). Simplified version of the dataset for use in topic modeling (using python)- stores only the book ID and description field.
 
-### To be updated with data transformation walkthrough and context as time allows
+### To come- Data Transformation Tutorial walking through each stage of the analysis!
