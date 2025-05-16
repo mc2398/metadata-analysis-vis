@@ -1,0 +1,460 @@
+genre,count,Regex that matches
+"Fiction,",3003,TRUE
+"Audiobook,",2869,TRUE
+"Nonfiction,",1627,TRUE
+"Fantasy,",1459,TRUE
+"Romance,",1232,TRUE
+"Contemporary,",1078,TRUE
+"Young Adult,",987,TRUE
+"Adult,",940,TRUE
+"Mystery,",818,TRUE
+"Biography,",727,TRUE
+"Memoir,",693,TRUE
+"Historical Fiction,",616,TRUE
+"Thriller,",576,TRUE
+"Historical,",575,TRUE
+"Science Fiction,",558,TRUE
+"History,",536,TRUE
+"Humor,",511,TRUE
+"Horror,",430,TRUE
+"LGBT,",407,TRUE
+"Mystery Thriller,",384,TRUE
+"Paranormal,",376,TRUE
+"Biography Memoir,",342,TRUE
+"Childrens,",326,TRUE
+"Literary Fiction,",305,TRUE
+"Poetry,",292,TRUE
+"Crime,",285,TRUE
+"Queer,",285,TRUE
+"Graphic Novels,",278,TRUE
+"Contemporary Romance,",264,TRUE
+"Magic,",261,TRUE
+"Middle Grade,",257,TRUE
+"Science,",256,TRUE
+"Adventure,",240,TRUE
+"Politics,",240,TRUE
+"Comics,",228,TRUE
+"Food,",227,TRUE
+"Urban Fantasy,",225,TRUE
+"Feminism,",224,TRUE
+"Realistic Fiction,",213,TRUE
+"Suspense,",212,TRUE
+"Picture Books,",210,TRUE
+"Dystopia,",208,TRUE
+"Chick Lit,",198,TRUE
+"Self Help,",177,TRUE
+"Cooking,",175,TRUE
+"Comedy,",173,TRUE
+"War,",168,TRUE
+"Psychology,",167,TRUE
+"Cookbooks,",166,TRUE
+"Adult Fiction,",152,TRUE
+"Mental Health,",151,TRUE
+"Autobiography,",150,TRUE
+"Essays,",150,TRUE
+"Race,",150,TRUE
+"Family,",142,TRUE
+"New Adult,",141,TRUE
+"Vampires,",134,TRUE
+"Animals,",133,TRUE
+"Graphic Novels Comics,",133,TRUE
+"Health,",124,TRUE
+"Young Adult Fantasy,",122,TRUE
+"Science Fiction Fantasy,",117,TRUE
+"Mythology,",112,TRUE
+"High Fantasy,",109,TRUE
+"Magical Realism,",108,TRUE
+"Business,",106,TRUE
+"World War II,",105,TRUE
+"Nature,",103,TRUE
+"Reference,",103,TRUE
+"Space,",100,TRUE
+"Storytime,",99,TRUE
+"American History,",97,TRUE
+"True Crime,",97,TRUE
+"Enemies To Lovers,",91,TRUE
+"Paranormal Romance,",91,TRUE
+"Short Stories,",91,TRUE
+"Romantasy,",89,TRUE
+"Retellings,",88,TRUE
+"Friendship,",80,TRUE
+"Travel,",80,TRUE
+"Space Opera,",79,TRUE
+"Personal Development,",72,TRUE
+"Military Fiction,",71,TRUE
+"Social Justice,",71,TRUE
+"Art,",70,TRUE
+"Epic Fantasy,",70,TRUE
+"Philosophy,",69,TRUE
+"Sports,",67,TRUE
+"Music,",65,TRUE
+"Fantasy Romance,",64,TRUE
+"Novels,",64,TRUE
+"Book Club,",63,TRUE
+"Books About Books,",61,TRUE
+"Post Apocalyptic,",57,TRUE
+"Time Travel,",55,TRUE
+"Foodie,",52,TRUE
+"Sociology,",52,TRUE
+"Witches,",52,TRUE
+"African American,",51,TRUE
+"Fae,",51,TRUE
+"Technology,",51,TRUE
+"Young Adult Contemporary,",51,TRUE
+"Coming Of Age,",50,TRUE
+"Gothic,",50,TRUE
+"Lesbian,",50,TRUE
+"Religion,",48,TRUE
+"Fairy Tales,",47,TRUE
+"Food and Drink,",47,TRUE
+"Aliens,",43,TRUE
+"Environment,",42,TRUE
+"Friends To Lovers,",42,TRUE
+"Womens,",42,TRUE
+"Erotica,",41,TRUE
+"Parenting,",39,TRUE
+"Asia,",38,TRUE
+"Nutrition,",38,TRUE
+"Speculative Fiction,",38,TRUE
+"Economics,",37,TRUE
+"Zombies,",37,TRUE
+"Biology,",36,TRUE
+"Medicine,",36,TRUE
+"Dragons,",35,TRUE
+"Superheroes,",34,TRUE
+"Africa,",32,TRUE
+"Literature,",32,TRUE
+"Novella,",32,TRUE
+"Canada,",31,TRUE
+"Historical Romance,",31,TRUE
+"Comic Book,",30,TRUE
+"Ghosts,",30,TRUE
+"China,",29,TRUE
+"Medical,",29,TRUE
+"Supernatural,",29,TRUE
+"British Literature,",28,TRUE
+"Indigenous,",28,TRUE
+"Steampunk,",28,TRUE
+"Culinary,",27,TRUE
+"Leadership,",27,TRUE
+"High School,",26,TRUE
+"Psychological Thriller,",26,TRUE
+"Vegan,",26,TRUE
+"Christian,",25,TRUE
+"Dark Romance,",25,TRUE
+"Shapeshifters,",25,TRUE
+"France,",24,TRUE
+"Grief,",24,TRUE
+"Pop Culture,",24,TRUE
+"India,",23,TRUE
+"Mental Illness,",23,TRUE
+"Cultural,",22,TRUE
+"Abuse,",21,TRUE
+"American,",20,TRUE
+"Ireland,",20,TRUE
+"Love,",20,TRUE
+"New York,",20,TRUE
+"Productivity,",20,TRUE
+"Romantic Suspense,",20,TRUE
+"Sports Romance,",20,TRUE
+"Teen,",20,TRUE
+"Action,",19,TRUE
+"Apocalyptic,",19,TRUE
+"Dark,",19,TRUE
+"Death,",19,TRUE
+"Greek Mythology,",19,TRUE
+"Physics,",19,TRUE
+"Russia,",19,TRUE
+"School,",19,TRUE
+"Werewolves,",19,TRUE
+"Asian Literature,",18,TRUE
+"Climate Change,",18,TRUE
+"College,",18,TRUE
+"Holocaust,",18,TRUE
+"Writing,",18,TRUE
+"Young Adult Romance,",18,TRUE
+"Detective,",17,TRUE
+"Manga,",17,TRUE
+"Native American,",17,TRUE
+"Anthologies,",16,TRUE
+"Espionage,",16,TRUE
+"Presidents,",16,TRUE
+"Westerns,",16,TRUE
+"Birds,",15,TRUE
+"Dark Fantasy,",15,TRUE
+"Demons,",15,TRUE
+"Marvel,",15,TRUE
+"Second Chance,",15,TRUE
+"Anti Racist,",14,TRUE
+"Civil War,",14,TRUE
+"Classics,",14,TRUE
+"Dc Comics,",14,TRUE
+"Drama,",14,TRUE
+"Faith,",14,TRUE
+"Juvenile,",14,TRUE
+"M M Romance,",14,TRUE
+"Military Science Fiction,",14,TRUE
+"Spirituality,",14,TRUE
+"Angels,",13,TRUE
+"Disability,",13,TRUE
+"BDSM,",12,TRUE
+"Cults,",12,TRUE
+"Education,",12,TRUE
+"Italy,",12,TRUE
+"Military History,",12,TRUE
+"The United States Of America,",12,TRUE
+"21st Century,",11,TRUE
+"Anthropology,",11,TRUE
+"Cats,",11,TRUE
+"Christmas,",11,TRUE
+"Dogs,",11,TRUE
+"Inspirational,",11,TRUE
+"Japan,",11,TRUE
+"Star Wars,",11,TRUE
+"Autistic Spectrum Disorder,",10,TRUE
+"Cyberpunk,",10,TRUE
+"Gardening,",10,TRUE
+"Gay,",10,TRUE
+"Southern,",10,TRUE
+"Survival,",10,TRUE
+"American Revolution,",9,TRUE
+"Film,",9,TRUE
+"Finance,",9,TRUE
+"Holiday,",9,TRUE
+"Jewish,",9,TRUE
+"Journalism,",9,TRUE
+"Medieval,",9,TRUE
+"Neuroscience,",9,TRUE
+"Poetry Plays,",9,TRUE
+"Sustainability,",9,TRUE
+"Cozy Mystery,",8,TRUE
+"Erotic Romance,",8,TRUE
+"Futuristic,",8,TRUE
+"Irish Literature,",8,TRUE
+"Popular Science,",8,TRUE
+"Regency,",8,TRUE
+"Relationships,",8,TRUE
+"Food Writing,",7,TRUE
+"Gender,",7,TRUE
+"Genetics,",7,TRUE
+"Historical Mystery,",7,TRUE
+"Kids,",7,TRUE
+"Lovecraftian,",7,TRUE
+"Management,",7,TRUE
+"Pirates,",7,TRUE
+"Scotland,",7,TRUE
+"Small Town Romance,",7,TRUE
+"World War I,",7,TRUE
+"Adoption,",6,TRUE
+"Alternate History,",6,TRUE
+"Astronomy,",6,TRUE
+"Australia,",6,TRUE
+"Banned Books,",6,TRUE
+"Basketball,",6,TRUE
+"Batman,",6,TRUE
+"Christianity,",6,TRUE
+"Cozy,",6,TRUE
+"Entrepreneurship,",6,TRUE
+"Epic,",6,TRUE
+"Evolution,",6,TRUE
+"Germany,",6,TRUE
+"Mathematics,",6,TRUE
+"Nigeria,",6,TRUE
+"Plays,",6,TRUE
+"Tv,",6,TRUE
+"Weird Fiction,",6,TRUE
+"Archaeology,",5,TRUE
+"Atheism,",5,TRUE
+"Billionaire Romance,",5,TRUE
+"Computer Science,",5,TRUE
+"Dinosaurs,",5,TRUE
+"Futurism,",5,TRUE
+"Halloween,",5,TRUE
+"Photography,",5,TRUE
+"Political Science,",5,TRUE
+"Spain,",5,TRUE
+"Transgender,",5,TRUE
+"Tudor Period,",5,TRUE
+"World History,",5,TRUE
+"American Revolutionary War,",4,TRUE
+"Artificial Intelligence,",4,TRUE
+"Bande Dessinée,",4,TRUE
+"Baseball,",4,TRUE
+"Brain,",4,TRUE
+"Christian Fiction,",4,TRUE
+"Egypt,",4,TRUE
+"Fitness,",4,TRUE
+"Hockey,",4,TRUE
+"Japanese Literature,",4,TRUE
+"Language,",4,TRUE
+"Law,",4,TRUE
+"Linguistics,",4,TRUE
+"Queer Lit,",4,TRUE
+"Read For School,",4,TRUE
+"Sexuality,",4,TRUE
+"Unfinished,",4,TRUE
+"Womens Fiction,",4,TRUE
+"19th Century,",3,TRUE
+"Aviation,",3,TRUE
+"Buddhism,",3,TRUE
+"Climate Change Fiction,",3,TRUE
+"Collections,",3,TRUE
+"Comix,",3,TRUE
+"Crafts,",3,TRUE
+"Cuisine,",3,TRUE
+"Design,",3,TRUE
+"Ecology,",3,TRUE
+"Fables,",3,TRUE
+"Fairies,",3,TRUE
+"Fashion,",3,TRUE
+"Growth Mindset,",3,TRUE
+"Iran,",3,TRUE
+"Marriage,",3,TRUE
+"Monsters,",3,TRUE
+"Noir,",3,TRUE
+"Outdoors,",3,TRUE
+"Reverse Harem,",3,TRUE
+"Robots,",3,TRUE
+"Role Playing Games,",3,TRUE
+"Scandinavian Literature,",3,TRUE
+"Star Trek,",3,TRUE
+"Teaching,",3,TRUE
+"Terrorism,",3,TRUE
+"Travelogue,",3,TRUE
+"Unicorns,",3,TRUE
+"Vegetarian,",3,TRUE
+"Wonder Woman,",3,TRUE
+"12th Century,",2,TRUE
+"18th Century,",2,TRUE
+"Agriculture,",2,TRUE
+"Amazon,",2,TRUE
+"American Civil War,",2,TRUE
+"Arthurian,",2,TRUE
+"Back To School,",2,TRUE
+"Christian Living,",2,TRUE
+"Clean Romance,",2,TRUE
+"Communication,",2,TRUE
+"Counting,",2,TRUE
+"Cycling,",2,TRUE
+"Diary,",2,TRUE
+"Diets,",2,TRUE
+"Dungeons and Dragons,",2,TRUE
+"Emotion,",2,TRUE
+"Fighters,",2,TRUE
+"French Revolution,",2,TRUE
+"Gaming,",2,TRUE
+"Gay For You,",2,TRUE
+"Geography,",2,TRUE
+"Hard Science Fiction,",2,TRUE
+"Historical Fantasy,",2,TRUE
+"Indian Literature,",2,TRUE
+"Israel,",2,TRUE
+"Knitting,",2,TRUE
+"Latin American,",2,TRUE
+"Legal Thriller,",2,TRUE
+"Mafia Romance,",2,TRUE
+"Menage,",2,TRUE
+"Microhistory,",2,TRUE
+"Money,",2,TRUE
+"Muslims,",2,TRUE
+"Natural History,",2,TRUE
+"Near Future,",2,TRUE
+"Nordic Noir,",2,TRUE
+"Poverty,",2,TRUE
+"Quantum Mechanics,",2,TRUE
+"Road Trip,",2,TRUE
+"Social Science,",2,TRUE
+"Southern Gothic,",2,TRUE
+"Theology,",2,TRUE
+"Wine,",2,TRUE
+"Workplace Romance,",2,TRUE
+"17th Century,",1,TRUE
+"Activism,",1,TRUE
+"Aeroplanes,",1,TRUE
+"African American Literature,",1,TRUE
+"African American Romance,",1,TRUE
+"African Literature,",1,TRUE
+"Ancient History,",1,TRUE
+"Architecture,",1,TRUE
+"Art and Photography,",1,TRUE
+"Bangladesh,",1,TRUE
+"Beauty and The Beast,",1,TRUE
+"Bicycles,",1,TRUE
+"Bolivia,",1,TRUE
+"Botswana,",1,TRUE
+"Buffy The Vampire Slayer,",1,TRUE
+"Buisness,",1,TRUE
+"Cartography,",1,TRUE
+"Catholic,",1,TRUE
+"Chemistry,",1,TRUE
+"Chess,",1,TRUE
+"Choose Your Own Adventure,",1,TRUE
+"Cocktails,",1,TRUE
+"Comedian,",1,TRUE
+"Computers,",1,TRUE
+"Conservation,",1,TRUE
+"Cthulhu Mythos,",1,TRUE
+"Engineering,",1,TRUE
+"European History,",1,TRUE
+"Fandom,",1,TRUE
+"Female Authors,",1,TRUE
+"Food History,",1,TRUE
+"Food Preservation,",1,TRUE
+"Forgotten Realms,",1,TRUE
+"Fostering,",1,TRUE
+"Fractured Fairy Tales,",1,TRUE
+"Games,",1,TRUE
+"Geology,",1,TRUE
+"Google,",1,TRUE
+"Green,",1,TRUE
+"Hip Hop,",1,TRUE
+"Horses,",1,TRUE
+"How To,",1,TRUE
+"Illness,",1,TRUE
+"Internet,",1,TRUE
+"Italian Literature,",1,TRUE
+"Judaism,",1,TRUE
+"Latin American History,",1,TRUE
+"Lds,",1,TRUE
+"Literary Criticism,",1,TRUE
+"M M M,",1,TRUE
+"Manhwa,",1,TRUE
+"Maps,",1,TRUE
+"Media Tie In,",1,TRUE
+"Mermaids,",1,TRUE
+"Military Romance,",1,TRUE
+"Motorcycle,",1,TRUE
+"Mountaineering,",1,TRUE
+"Musicians,",1,TRUE
+"Nursery Rhymes,",1,TRUE
+"Personal Finance,",1,TRUE
+"Plantagenet,",1,TRUE
+"Plants,",1,TRUE
+"Poland,",1,TRUE
+"Polyamory,",1,TRUE
+"Princesses,",1,TRUE
+"Psychoanalysis,",1,TRUE
+"Rabbits,",1,TRUE
+"Regency Romance,",1,TRUE
+"Romania,",1,TRUE
+"Russian History,",1,TRUE
+"Rwanda,",1,TRUE
+"Short Story Collection,",1,TRUE
+"Slice Of Life,",1,TRUE
+"Social Issues,",1,TRUE
+"South Africa,",1,TRUE
+"Spanish Civil War,",1,TRUE
+"Spanish Literature,",1,TRUE
+"Spy Thriller,",1,TRUE
+"Sudan,",1,TRUE
+"Tanzania,",1,TRUE
+"Tea,",1,TRUE
+"Teachers,",1,TRUE
+"Theatre,",1,TRUE
+"Turkish Literature,",1,TRUE
+"Turkish,",1,TRUE
+"Ukraine,",1,TRUE
+"Urbanism,",1,TRUE
+"Video Games,",1,TRUE
+"Witchcraft,",1,TRUE
+"Zen,",1,TRUE
