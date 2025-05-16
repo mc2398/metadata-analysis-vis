@@ -8,4 +8,4 @@ While Goodreads collects user feedback about books in the form of written review
 What trends in subject matter existed in the books that won the readers’ favorite awards across the studied years?
 To what degree are the trends in popular topics persistent? (And what does that imply about the use of metadata analysis in library collection development practices)
 
-### To be updated with additional context about the research design and findings
+## For additional context about the research process and methods, see the [project write up](https://mc2398.github.io/graduate_portfolio/goodreads_article.html)
