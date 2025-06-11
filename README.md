@@ -2,7 +2,7 @@
 
 This project was completed as part of a capstone-level graduate data visualization course, as part of course work towards a Masters of Science in Library and Information Science. 
 
-The repository includes walkthroughs and code, which are designed to allow code-savvy librarians or digital humanists to conduct similar metadata analysis of a cultural heritage institution's collection.  
+The repository includes project explanations and code, which are designed to allow code-savvy librarians or digital humanists to conduct similar metadata analysis of a cultural heritage institution's collection.  
 The stages of the project can be explored chronologically (the order in which I approached the project) or as needed.  Depending on the availability of data and goals of your project, some stages may not be necessary.  
 
 1. [Web Scraping](/web-scraper/web-scraper.md)
