@@ -22,7 +22,7 @@ For my project, I used a combination of Google Sheets and [OpenRefine](https://o
 As of spring 2025, Google Sheets has a file size limit of 100MB and a maximum number of cells (across all sheets in a project) of 10 million cells. OpenRefine can similarly work with a large amount of data, however, with very large collections, it may be helpful to work with subsets of the collection, or to use [Pandas](https://pandas.pydata.org/docs/) to conduct initial analysis.
 
 ## Datasets
-Draft versions of the datasets I used for the analysis of the project are available as csvs in the datasets folder, and in a public google sheets (hyper-linked in the list below).  Details of the intended use and modifications made at each stage are below:
+Draft versions of the datasets I used for the analysis of the project are available as csvs in the datasets folder, and in a public [google sheets folder](https://drive.google.com/drive/folders/1cNs4Pt_WTyY_A0Jl-BtC47Q1LWYoJEoZ?usp=sharing) (individual files hyper-linked in the list below).  Details of the intended use and modifications made at each stage are below:
 
 Note that across all datasets 0 indicates "no", ie., a row does not include a given attribute or subject term, while 1 indicates "yes".
 
