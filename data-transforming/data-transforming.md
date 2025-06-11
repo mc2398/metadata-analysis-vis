@@ -32,7 +32,7 @@ Note that across all datasets 0 indicates "no", ie., a row does not include a gi
 4) [Subject Percents](data-transforming/datasets/deduped_subjects_longlist - _percents.csv).  Converts subject term counts to rounded percents, to facilitate visualization of the data as a line graph.
 5) [Changes in Percents](data-transforming/datasets/deduped_subjects_longlist - _change_in_percents.csv) Calculations of the change in the percent of books that were tagged with each of the top 200 genres, between 2024 and 2011.
 6) [Top Genre Tags](data-transforming/datasets/deduped_subject_terms-list_plus_counts - Sheet2.csv) Data including the total count of each genre in the dataset, and RegEx statements uniquely identifying each genre tag for use in the Subject Counts calculations for each year
-7) [Author Data](goodreads_deduplicated_author_data.csv). Contains a row for each author of the included books.  Books have been already deduplicated.  Multiauthored books and repeat authors are identified.
+7) [Author Data](https://docs.google.com/spreadsheets/d/1mOK6_j2lwhM3Z6I9thiw7bGlsnvjwPZKQHUdtPTJFVA/edit?usp=sharing). Contains a row for each author of the included books.  Books have been already deduplicated.  Multiauthored books and repeat authors are identified.
 8) [Topic Modeling Dataset](data-transforming/datasets/goodreads_dataset_for_topic-modeling.csv). Simplified version of the dataset for use in topic modeling (using python)- stores only the book ID and description field.
 
 ### To come- Data Transformation Tutorial walking through each stage of the analysis!
